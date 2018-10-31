@@ -1,5 +1,7 @@
 # Blockchain in Go
 
+>| [中文文档](./docs)
+
 A blockchain implementation in Go, as described in these articles:
 
 1. [Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
